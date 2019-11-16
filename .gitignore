@@ -1,0 +1,10 @@
+# MACOSX
+*.DS_Store
+
+# PyCharm
+**/__pycache__
+.idea/**
+**/.idea
+
+# Jupyter
+.ipynb_checkpoints
