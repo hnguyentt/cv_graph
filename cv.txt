@@ -1,0 +1,30 @@
+N1	Hoa Nguyen	Gau
+N2	Education	education
+N3	Luong The Vinh high school for the gifted	LTV
+N4	University of Medicine and Pharmacy, Ho Chi Minh city	UMPHCM
+N5	VietAI	VietAI
+N6	Research Experience	research
+N7	Online Research Club	ORC
+N8	Working Experience	working
+N9	Cao Thang Eye Hospital	CTEH
+N10	Hobbies	hobby
+N11	Playing musical instruments	piano
+N12	Cycling	cycling
+N13	Drawing	drawing
+N14	Reading	reading
+E1	N1	N2	0B806C
+E2	N2	N3	0B806C
+E3	N2	N4	0B806C
+E4	N2	N4	0B806C
+E16	N2	N5	0B806C
+E5	N1	N6	0B3080
+E6	N6	N4	0B3080
+E7	N6	N7	0B3080
+E8	N1	N8	805B0B
+E9	N8	N5	805B0B
+E10	N8	N9	805B0B
+E11	N1	N10	800B64
+E12	N10	N11	800B64
+E13	N10	N12	800B64
+E14	N10	N13	800B64
+E15	N10	N14	800B64
