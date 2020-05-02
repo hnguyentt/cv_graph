@@ -47,7 +47,7 @@ if __name__=="__main__":
         "color": {
           "inherit": true
         },
-        "smooth": false
+        "smooth": true
       },
       "physics": {
         "minVelocity": 0.75

@@ -12,6 +12,7 @@ N11	Playing musical instruments	piano
 N12	Cycling	cycling
 N13	Drawing	drawing
 N14	Reading	reading
+N15	Pasteur Institute	pasteur
 E1	N1	N2	0B806C
 E2	N2	N3	0B806C
 E3	N2	N4	0B806C
@@ -28,3 +29,5 @@ E12	N10	N11	800B64
 E13	N10	N12	800B64
 E14	N10	N13	800B64
 E15	N10	N14	800B64
+E16	N6	N15	0B3080
+E17	N8	N15	805B0B
